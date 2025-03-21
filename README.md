@@ -6,5 +6,5 @@
 <br><br>
 <p align="center">
   <em>
-      "¿Sabes por qué solo desayuno en McDonald's? <br> Porque solo como en lugares que empiezan con 'Mac'." <br> -Felix Gonzáles(2025) <br> (Usuario Mac)
+      "¿Sabes por qué solo desayuno en McDonald's? <br> Porque solo como en lugares que empiezan con 'Mac'." <br> -Felix González(2025) <br> (Usuario Mac)
   </em> 
